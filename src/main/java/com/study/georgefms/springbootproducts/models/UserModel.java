@@ -43,6 +43,12 @@ public class UserModel implements UserDetails {
         this.role = role;
     }
 
+    public UserModel(String login, String pass, UserRole role){
+        this.login = login;
+        this.pass = pass;
+        this.role = role;
+    }
+
     public String getId() {
         return id;
     }
