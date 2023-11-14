@@ -7,13 +7,14 @@ Repositório de estudos em spring onde, com a ajuda de um curso, implementei um 
 - Spring Data JPA
 - Validation
 - Hateoas
+- Spring Security
+- JTW
 
 ### Próximos passos 
 
-- Implementar services para usar as rotas. 
-- Implementar novas entidades para usar security
-- Spring Security: garantir rotas para cada usuário.
+- Implementar services para usar as rotas.
+- Criar um bean de inicialização para usar um usuario inicial.
 - Testes (?)
-- Tentar implementar o Swagger. 
+- Documentar a API.  
 - Docker
     
