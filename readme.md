@@ -8,13 +8,13 @@ Repositório de estudos em spring onde, com a ajuda de um curso, implementei um 
 - Validation
 - Hateoas
 - Spring Security
+- JTW
 
 ### Próximos passos 
 
 - Implementar services para usar as rotas.
 - Criar um bean de inicialização para usar um usuario inicial.
-- JWT
 - Testes (?)
-- Tentar implementar o Swagger. 
+- Documentar a API.  
 - Docker
     
